@@ -8,7 +8,7 @@ Django==4.0.2
 django-filter==21.1
 djangorestframework==3.13.1
 djangorestframework-gis==0.18
-GDAL @ file:///D:/GeoTest/GeoBack/GDAL-3.4.1-cp39-cp39-win_amd64.whl
+GDAL @ file:///C:/DjangoGeoPractice/GeoBack/GDAL-3.4.1-cp39-cp39-win_amd64.whl
 idna==3.3
 iniconfig==1.1.1
 packaging==21.3
